@@ -1,7 +1,7 @@
 # Zain Arshad
 Born in Pakistan raised in Houston, TX.
 I like computer science because it seems fun.
-Student at Klein Oak High School, currently taking CS2 for comp sci. I plan on doing comp sci ib next year, calc bc, and BIM 2 DC so I can get my certificate.
+Student at Klein Oak High School, currently taking CS2 for comp sci. I plan on doing comp sci ib next year, calc bc, and BIM 2 DC so I can get my Microsoft certification.
 I like to play video games, love music and cars.
 I want to learn the violin.
 
